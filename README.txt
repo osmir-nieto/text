@@ -1,6 +1,5 @@
 TOOLS FOR DOWNLOAD
-
-VSCODE:
+hfhgfVSCODE:
 https://code.visualstudio.com/Download <- Use either User Installer or System Installer.
 
 Some cool extensions for VSCODE:
@@ -16,4 +15,5 @@ Some cool extensions for VSCODE:
 IN CASE YOU'RE UNABLE TO INSTALL VSCODE DUE TO INCOMPATIBILITY ISSUES (MOST LIKELY FOR BEING IN A 32 BITS OS), USE THIS VERSION INSTEAD:
 
 VSCODE FOR 32 BITS (OUTDATED):
+
 https://update.code.visualstudio.com/1.83.1/win32-user/stable
